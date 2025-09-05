@@ -1,5 +1,5 @@
 # Test-Cases-and-Acceptance-Criteria
-Acceptance Criteria is written on a rule based standard and Test Cases (positive &amp; negative) for 2 features.
+Acceptance Criteria is written on a rule based standard, Test Cases (positive &amp; negative) for 2 features, and based on testcases I have written a Checklist.
 
 
 
